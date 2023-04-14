@@ -8,7 +8,7 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   let who = ["The dog ", "My granma ", "His turtle ", "My bird "];
   let action = ["eat ", "pissed ", "crushed ", "broked "];
-  let what = ["my homework", "the keys", "the car"];
+  let what = ["my homework ", "the keys ", "the car "];
   let when = [
     "before the class",
     "right in time",
